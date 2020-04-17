@@ -1,2 +1,1 @@
-# 2step
- FSD Frontend 2 step education
+https://spirit9891.github.io/2step/
